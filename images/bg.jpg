@@ -29,21 +29,8 @@ img.emoji {
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='http://healtynaturlife.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='dlm-frontend-css'  href='http://healtynaturlife.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=5.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ea1d43322-css'  href='http://healtynaturlife.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1637852609' type='text/css' media='all' />
 <link rel='stylesheet' id='hfe-style-css'  href='http://healtynaturlife.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.5' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css'  href='http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' />
-<style id='elementor-icons-inline-css' type='text/css'>
-
-		.elementor-add-new-section .elementor-add-templately-promo-button{
-            background-color: #5d4fff;
-            background-image: url(http://healtynaturlife.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
-            background-repeat: no-repeat;
-            background-position: center center;
-            margin-left: 5px;
-            position: relative;
-            bottom: 5px;
-        }
-</style>
 <link rel='stylesheet' id='elementor-frontend-css'  href='http://healtynaturlife.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8' type='text/css' media='all' />
 <style id='elementor-frontend-inline-css' type='text/css'>
 @font-face{font-family:eicons;src:url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(http://healtynaturlife.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
@@ -280,12 +267,6 @@ img.emoji {
 			</div>
 </footer>
 
-<script type='text/javascript' id='ea1d43322-js-extra'>
-/* <![CDATA[ */
-var localize = {"ajaxurl":"http:\/\/healtynaturlife.com\/wp-admin\/admin-ajax.php","nonce":"850029dc8a","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://healtynaturlife.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1637852609' id='ea1d43322-js'></script>
 <script type='text/javascript' src='http://healtynaturlife.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
 <script type='text/javascript' src='http://healtynaturlife.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.4.0' id='elementskit-framework-js-frontend-js'></script>
 <script type='text/javascript' id='elementskit-framework-js-frontend-js-after'>
